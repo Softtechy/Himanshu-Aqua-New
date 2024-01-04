@@ -81,6 +81,7 @@ header{
 header .logo{
     font-size: 2.5rem;
     color:#666;
+    text-decoration: none;
 }
 
 header .logo span{
@@ -91,6 +92,7 @@ header .navbar a{
     font-size: 1.7rem;
     margin-left: 2rem;
     color:#666;
+    text-decoration: none;
 }
 
 header .navbar a:hover{
@@ -582,6 +584,11 @@ header .navbar a:hover{
 .footer .credit a{
     color:var(--green);
 }
+
+.credit a{
+    text-decoration: none;
+}
+
 
 
 
